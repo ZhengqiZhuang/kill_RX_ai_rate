@@ -65,3 +65,8 @@ kill_RX_ai_rate/
 ## License
 
 MIT License
+
+## 发布平台
+
+- [academic-humanization-low-ai](https://clawhub.ai/zhengqizhuang/academic-humanization-low-ai)
+- [secondary-style-perturbation](https://clawhub.ai/zhengqizhuang/secondary-style-perturbation)
