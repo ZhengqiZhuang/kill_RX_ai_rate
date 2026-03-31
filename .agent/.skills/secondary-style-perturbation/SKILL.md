@@ -1,5 +1,5 @@
 ---
-name: "secondary_style_perturbation"
+name: "secondary-style-perturbation"
 description: "对已初步处理的文本进行二次轻微扰动。用于第一轮重写后需要进一步降低风格一致性特征时使用。"
 ---
 

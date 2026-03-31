@@ -52,8 +52,8 @@
 kill_RX_ai_rate/
 ├── README.md
 └── .agent/.skills/
-    ├── academic_humanization_low_ai/   # 深度人类化重写
-    └── secondary_style_perturbation/  # 二次风格扰动
+    ├── academic-humanization-low-ai/   # 深度人类化重写
+    └── secondary-style-perturbation/  # 二次风格扰动
 ```
 
 ---
